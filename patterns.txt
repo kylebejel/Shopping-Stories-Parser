@@ -1,0 +1,12 @@
+Format of this doc is as follows:
+PATTERN
+EXAMPLE OF PATTERN
+
+[To] NAME INT..INT..INT
+[To] Lewis Renoe 0..5..9
+
+[To] NAME INT..INT..[INT]
+[To] Nathaniel Grigsby 0..4..[0]
+
+[To] NUM Prs [Pairs] DESCRIBER GOOD CHAR INT [at] FRACTION
+[To] 2 Prs [Pairs] Girls Stays N 7 [at] 6/6
